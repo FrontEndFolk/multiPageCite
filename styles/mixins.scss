@@ -1,0 +1,25 @@
+@mixin Font($FontS, $FontW, $FontColor){
+    font-size: $FontS;
+    font-weight: $FontW;
+    color: $FontColor;
+}
+
+@mixin SelfPosit ($Justify , $Align){
+    justify-self: $Justify ;
+    align-self:  $Align;
+}
+
+@mixin Position($posit,$top,$left,$z-index){
+    position: $posit ;
+    top:$top;
+    left: $left;
+    z-index:$z-index;
+}
+
+
+@mixin CustomBorder($top,$bottom,$left,$right,$color){
+    border-top:$top solid $color ;
+    border-bottom:$bottom solid $color;
+    border-left:$left solid $color;
+    border-right:$right solid $color;
+}

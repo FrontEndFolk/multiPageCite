@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 58" width="120" height="58">
+    <title>Section About</title>
+    <style>
+        .shp0 { fill: #e2534b;   }
+        .shp1 { fill: #76c7c0;; }
+    </style>
+    <g id="Section About">
+        <g id="Skills">
+            <path id="Path" class="shp1" d="M15.01 58C16.06 34.07 35.78 15 59.96 15C84.15 15 103.87 34.07 104.92 58L119.93 58C118.87 25.79 92.43 0 59.96 0C27.5 0 1.05 25.79 0 58L15.01 58Z" />
+        </g>
+        <g id="Skills">
+            <path id="Path" class="shp0" d="M15.01 58C16.06 34.07 35.78 15 59.96 15C68.03 15 75.61 17.13 82.15 20.84L93.05 9.94C83.57 3.66 72.2 0 59.96 0C27.5 0 1.05 25.79 0 58L15.01 58Z  " />
+        </g>
+    </g>
+    <g id="Section About">
+
+    </g>
+</svg>

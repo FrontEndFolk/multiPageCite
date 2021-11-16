@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101 23" width="101" height="23">
+	<title>Section clients</title>
+	<defs>
+		<image  width="101" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAAAXCAMAAAAlSHE3AAAAAXNSR0IB2cksfwAAAFFQTFRF////f4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMf4yMDkeRAQAAABt0Uk5TACBAYMD/0DAQgPCwoJBQ4HDP779/b6+f318/vPKhQgAAAjxJREFUeJy1VMlC6zAMtBOv2ZOWUvj/D33SyHLSwKHA6xyy2FpnLBvzHGzTPGn5a7TOM0L7whwxeEVIP3VOmfCEV+z8jv6nWQZyGmvK7yyoiskYdDKPuUeaaMxE60iv79ERBui25IJFIrbksmo8yybulKQhi2yyx4sjlC9XHGlnI1enfVLJ6dQ187BZGFPWhZu65McsI9k2ptt5CpJFOXC8ceRTClNQ2MQeE9pgjxw48TbSjq3ktdfr1UzsYGXBIQtHwmHDH6/NWehs0Ph6EUQRRUpfHMjgQPHinXs7ytLCMJhjL4uog2yN5SSpVNDgqZI1EOUirj3HsP4sClki5ryfESv19iUS1w1WZxZ/Rm6iz6mkDqIkpYE/bn44Z1nAKUde9oXOcF5X+FtNlR66xFoShgtFCQaQnFYfZKXq0kNBv5v2iJE0Er0Hc0wSQNFUbasoqHA2ksYHYrN/1w3q9y5FSXlJxkXFx5uLn9tGECHiPife3yox1heyPi5E4206ytJLlq5Vx6BTJLJE/un2iQ51BFHS/TDr4+EKOMmy1NYLZtdiJEhulhal+M4NGPdCoqnCHG/xdKei96z6NciBjf4ROLsFDrTWCvZJkl5Wc0TcqJ5RJi9lLSbg/qBb63hZ8hlr609+2B3Qfhngxn9hyK7CxuCcX1OVSy+WKfdOwYrYj6uAI9oll63JTHxZlCz0Gc8ivN2lnk2tQNjyjVx/wycX96l/2cmxfSlwReoV9DKM/nwQXwG+ot7/J1//AHeYGg776pe6AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Section clients">
+		<use id="jquery" href="#img1" x="0" y="0" />
+	</g>
+</svg>
